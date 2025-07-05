@@ -21,15 +21,6 @@ Amazon Product Review Analysis
 ┣ 📊 Amazon_case_study(1) new.xlsx
 ┣ 📜 README.md
 
-## 📌 Objective
-To analyze product listings and customer reviews data from Amazon and provide insights into:
-- Product performance
-- Customer satisfaction
-- Category-wise sales and rating trends
-- Discount and pricing strategies
-
----
-
 ## 🧾 Dataset Description
 
 **File Name:** `Amazon_case_study(1) new.xlsx`  
