@@ -1,8 +1,6 @@
 # DSA-CAPSTONE-PROJECT
 A comprehensive Exploratory Data Analysis (EDA) using the appropriate analytical tools and techniques relevant to the context of dataset.
  Amazon Product Review Analysis Case Study
-markdown
-Copy code
 
 # 🛒 Amazon Product Review Analysis
 This project is part of a case study conducted by the analytics team at **RetailTech Insights**. The goal is to analyze Amazon product and customer review data to derive actionable insights that can guide product improvement, marketing strategies, and customer engagement
@@ -10,9 +8,6 @@ This project is part of a case study conducted by the analytics team at **Retail
 Amazon Product Review Analysis
 ┣ 📊 Amazon_case_study(1) new.xlsx
 ┣ 📜 README.md
-
-yaml
-Copy code
 
 ## 📌 Objective
 To analyze product listings and customer reviews data from Amazon and provide insights into:
@@ -26,13 +21,7 @@ Amazon Product Review Analysis
 ┣ 📊 Amazon_case_study(1) new.xlsx
 ┣ 📜 README.md
 
-yaml
-Copy code
-
 ## 📌 Objective
-
-## 📌 Objective
-
 To analyze product listings and customer reviews data from Amazon and provide insights into:
 - Product performance
 - Customer satisfaction
