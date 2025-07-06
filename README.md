@@ -95,12 +95,6 @@ Pull requests are welcome. If you'd like to propose changes:
 
 ---
 
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 ## 🙌 Acknowledgements
 
 Thanks to the RetailTech Insights team and the open data community for enabling meaningful e-commerce analytics.
